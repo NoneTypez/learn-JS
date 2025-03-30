@@ -1,5 +1,4 @@
-const lines = 5;
-
+// MAKING A CORRECT TRIANGLE 
 const foo = (lines) => {
   let res = ''
   let zeroCount = 1
@@ -11,5 +10,3 @@ const foo = (lines) => {
   }
   return res
 }
-
-console.log(foo(lines))
