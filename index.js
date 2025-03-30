@@ -10,5 +10,3 @@ const foo = (lines) => {
   }
   return res
 }
-
-console.log(foo(lines))
